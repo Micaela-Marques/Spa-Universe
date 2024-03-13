@@ -9,6 +9,7 @@
 
 
 <h2 align="center">Tecnologias 🚀</h2>
+
   <!-- -->
   
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
