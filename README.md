@@ -12,7 +12,7 @@
 
  <!-- -->
     
-  
+ ---  
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
 
 - **HTML**
@@ -20,7 +20,7 @@
 - **Javascript**
 
   <!-- -->
-    
+     ---
 <p>  O que será abordado nesse desafio:</p>
  
 
