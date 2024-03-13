@@ -16,15 +16,16 @@
 - **CSS**
 - **Javascript**
 
+  <!-- -->
+    ---
+
 - **O que será abordado nesse desafio:**
 
-- Conceitos de SPA
-- Mapeamento de rotas
-- Assíncrono e promises
-- Orientação a objetos
-- Modularização
-  
-
+  <p> Conceitos de SPA</p>
+  <p> Mapeamento de rotas</p>
+  <p> Assíncrono e promises </p>
+  <p>rientação a objetos</p>
+  <p> Modularização</p>
 
   
   ---
