@@ -1,5 +1,5 @@
 <p align="center">
-   <img alt="Projeto" src="./Capa.png">
+   <img alt="Projeto" src="./[Desafios Explorer] SPA Universe (Copy).png.png">
 
 </p>
 
